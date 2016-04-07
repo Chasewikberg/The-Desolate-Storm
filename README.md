@@ -17,3 +17,7 @@ You play by walking around and finding objects to click on. You click on them an
 ## What does this game look like?
 
 The game is filled with homemade pixel art and creepy pixel objects. 
+
+## The Beginning:
+
+You’re sitting in your cop car when suddenly a call comes in over the radio about a disturbance in an abandoned apartment complex. You respond to the call and say you will check it out. You drive  to the apartment complex and when you arrive you get out of you car and go into the building to check it out. You start walking around when you suddenly are hit over the head with an object. You are knocked out and then you wake up in another room. You look around and find that you have blood on your shirt. You start exploring to find out what really happened.
