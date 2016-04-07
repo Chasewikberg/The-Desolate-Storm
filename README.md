@@ -8,7 +8,7 @@ Chase, Timmy, Kevin, and Zainab
 
 We are making a game for our advanced programming class. The game is called The Desolate Storm.
  
- ## What is this "Desolate Storm," and how do you play?
+## What is this "Desolate Storm," and how do you play?
  
 This "Desolate Storm" is a 2D adventure game filled with *creepy* mystery. You are a police officer who must find all the clues to a terrible crime in an apartment.
  
