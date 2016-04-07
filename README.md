@@ -1,5 +1,5 @@
 # The-Desolate-Storm
- A student made high school level game.
+### A student made high school level game. Its amazing and you should play it when it's ready.
 
 ##Our Creaters:
 
@@ -16,4 +16,4 @@ You play by walking around and finding objects to click on. You click on them an
 
 ## What does this game look like?
 
-The game is filled with homemade pixel art and creepy pixel objects.
+The game is filled with homemade pixel art and creepy pixel objects. 
